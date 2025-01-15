@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "to_do_list",
+			"path": "."
+		},
+		{
+			"name": "carrossel",
+			"path": "../../../../carrossel"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "carrossel",
+		"liveServer.settings.port": 5501
+	}
+}
